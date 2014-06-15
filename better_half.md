@@ -17,7 +17,7 @@ Ricardo Pietrobon
 
 Work engagement is arguably one of the most desirable characteristics of an employee from an organizational perspective <!-- ref --> , often times being closely associated with employee characteristics including meaning, purpose in life and job satisfaction. <!-- ref --> And yet, multiple studies have demonstrated that these are also some of the most difficult characteristics to sustain at a high level over time. <!-- ref -->
 
-While previous research has demonstrated that work engagement can be increased through in person or mixed in-person and online interventions <!-- ref --> , this instruction mode is fairly expensive and time consuming since it takes a substantial amount of time away from work, requires a significant payment for specialized instructors and, above all, is not very scalable beyond small groups. <!-- ref --> While an entirely online format would be desirable, to our knowledge no previous studies have been published evaluating alternative forms of professional training.
+While previous research has demonstrated that work engagement can be increased through in person or mixed in-person and online interventions <!-- ref --> , this instruction mode is fairly expensive and time consuming since it takes a substantial amount of time away from work, requires a significant payment for specialized instructors and, above all, is not very scalable beyond small groups. <!-- ref --> While an entirely online format would be desirable, to our knowledge no previous studies have been published evaluating alternative forms of professional training.  
 
 * lit review on work engagement and its association with meaning, purpose in life and job satisfaction
 * lit review on Online learning for work engagement 
