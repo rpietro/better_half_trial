@@ -1,5 +1,8 @@
 # Talking to your better half: An educational, reproducible, parallel randomized controlled trial comparing a positive psychology toolkit vs. control and its effect on work engagement, meaning, purpose in life and job satisfaction among professionals
 
+<!-- out of my shoes methodology -->
+
+
 Francesco de Paola   
 Annamaria Meneghini   
 Bruno Melo  
@@ -60,18 +63,25 @@ All educational material for this course is made available within our Reproducib
 
 Our study had four main categories of outcome variables: work engagement, meaning, purpose in life and job satisfaction, all described under the subsequent sections. Per CONSORT Statement guidelines, any eventual changes to outcome measures deviating from the initial plan and occurring throughout the trial were recorded in our versioning system ([Github](https://github.com/)), thus ensuring full reproducibility. However, changes were avoided unless strictly necessary.
 
+<!-- Francesco to talk with Semeghini -->
 
 #### Work engagement
-short scale, validation references
 
 #### Meaning
-short scale, validation references
 
 #### Purpose in life 
-short scale, validation references
+
+
+The Life Engagement Test: Assessing Purpose in Life
 
 #### Job satisfaction
-short scale, validation references
+
+
+#### Sense of coherence
+http://www.benthamscience.com/open/togerimj/articles/V004/6TOGERIMJ.pdf
+
+<!-- francesco to translate scale -->
+
 
 
 ####  Sample size
@@ -113,4 +123,16 @@ In order to follow a reproducible research protocol, we have written our final m
 ## Discussion
 
 
+<!-- http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0084118
 
+http://kenexa.com/Portals/0/Downloads/KHPI%20Papers/Developing%20and%20Validating%20a%20Global%20Model%20of%20Employee%20Engagement.pdf
+
+http://www.wilmarschaufeli.nl/publications/Schaufeli/290.pdf
+ -->
+
+<!-- 
+http://www.psychologytoday.com/blog/career-transitions/201207/job-crafting
+http://justinmberg.com/berg-dutton--wrzesniewski_j.pdf
+http://www.compasspoint.org/sites/default/files/docs/Positive%20Organizational%20Scholarship%20Concepts%20and%20Resources.pdf
+http://positiveorgs.bus.umich.edu/cpo-tools/job-crafting-exercise/
+ -->
