@@ -20,7 +20,7 @@ Work engagement is arguably one of the most desirable characteristics of an empl
 While previous research has demonstrated that work engagement can be increased through in person or mixed in-person and online interventions <!-- ref --> , this instruction mode is fairly expensive and time consuming since it takes a substantial amount of time away from work, requires a significant payment for specialized instructors and, above all, is not very scalable beyond small groups. <!-- ref --> While an entirely online format would be desirable, to our knowledge no previous studies have been published evaluating alternative forms of professional training.  
 
 * lit review on work engagement and its association with meaning, purpose in life and job satisfaction
-* lit review on Online learning for work engagement 
+* lit review on Online learning for work engagement
 
 The objective of this educational, reproducible, parallel randomized trial is therefore to compare a positive psychology training toolkit intervention involving versus a control group in relation to work engagement, meaning, purpose in life and job satisfaction. We hypothesize that the positive toolkit (named the "better half arm") would result in increased work engagement, meaning, purpose in life and job satisfaction after a four-week intervention period.
 
